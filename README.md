@@ -1,2 +1,2 @@
 # ball-shooter
-Simple practice game for sfml
+Requires SFML
